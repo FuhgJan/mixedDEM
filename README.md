@@ -29,7 +29,7 @@ The provided example can then be run with
 $ python3 run_hole_problem.py
 ```
 
-Output will be written to mixedDEM/outputs/vtk_files/
+Outputs will be written to mixedDEM/outputs/vtk_files/
 
 
 ## Dependencies
