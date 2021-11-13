@@ -8,6 +8,10 @@ to resolve stress concentrations for finite strain hyperelasticity. The develope
 Deep Energy Method (mDEM) introduces stress measures as an additional output of the NN to
 the recently introduced pure displacement formulation.
 
+<p align="center">
+<img align="middle" src="output/images/mDEM_Process.pdf" alt="mDEM scheme" width="550" height="500" />
+</p>
+
 
 ## Installation
 This code requires an [Anaconda](https://www.anaconda.com/products/individual) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) environment with a recent Python version.
