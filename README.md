@@ -9,7 +9,7 @@ Deep Energy Method (mDEM) introduces stress measures as an additional output of 
 the recently introduced pure displacement formulation.
 
 <p align="center">
-<img align="middle" src="output/images/mDEM_Process.pdf" alt="mDEM scheme" width="550" height="500" />
+<img align="middle" src="output/images/mDEM_Process.png" alt="mDEM scheme" width="550" height="500" />
 </p>
 
 
