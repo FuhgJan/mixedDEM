@@ -15,7 +15,19 @@ the recently introduced pure displacement formulation[2].
 
 ## Installation
 This code requires an [Anaconda](https://www.anaconda.com/products/individual) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) environment with a recent Python version.
+The complete repository can be cloned and installed locally. It is recommended to create a conda environment before installation. This can be done by the following the command line instructions
 
+```
+$ git clone https://github.com/FuhgJan/mixedDEM.git ./mixedDEM
+$ cd mixedDEM
+$ conda env create -f environment.yml
+$ conda activate mixedDEM
+```
+The provided example can then be run with
+
+```
+$ python3 run_hole_problem.py
+```
 
 
 ## Dependencies
