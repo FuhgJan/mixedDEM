@@ -32,6 +32,7 @@ pyLabFEA requires the following packages as imports:
 
 ## References
 If you use part of this code consider citing:
+
 [1] Jan N. Fuhg, and Nikolaos Bouklas. "The mixed Deep Energy Method for resolving concentration features in finite strain hyperelasticity".
 Journal of Computational Physics (2021): 110839,
 
