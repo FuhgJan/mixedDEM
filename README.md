@@ -4,9 +4,9 @@
   - Organization: Cornell University
 
 Here, we propose an extension to the Deep Energy Method (DEM)
-to resolve stress concentrations for finite strain hyperelasticity. The developed framework termed mixed
-Deep Energy Method (mDEM) introduces stress measures as an additional output of the NN to
-the recently introduced pure displacement formulation.
+to resolve stress concentrations for finite strain hyperelasticity[1]. The developed framework termed mixed
+Deep Energy Method (mDEM) introduces stress measures as an additional output of the neural network to
+the recently introduced pure displacement formulation 2].
 
 <p align="center">
 <img align="middle" src="output/images/mDEM_Process.png" alt="mDEM scheme" width="600" height="200" />
@@ -32,11 +32,11 @@ pyLabFEA requires the following packages as imports:
 
 ## References
 If you use part of this code consider citing:
-Jan N. Fuhg, and Nikolaos Bouklas. "The mixed Deep Energy Method for resolving concentration features in finite strain hyperelasticity".
+[1] Jan N. Fuhg, and Nikolaos Bouklas. "The mixed Deep Energy Method for resolving concentration features in finite strain hyperelasticity".
 Journal of Computational Physics (2021): 110839,
 
 and 
-Nguyen-Thanh, Vien Minh, Xiaoying Zhuang, and Timon Rabczuk. "A deep energy method for finite deformation hyperelasticity." European Journal of Mechanics-A/Solids 80 (2020): 103874.
+[2] Nguyen-Thanh, Vien Minh, Xiaoying Zhuang, and Timon Rabczuk. "A deep energy method for finite deformation hyperelasticity." European Journal of Mechanics-A/Solids 80 (2020): 103874.
 
 
 ## License
