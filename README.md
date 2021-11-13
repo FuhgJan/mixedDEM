@@ -1,4 +1,4 @@
-# mixedDEM: Code for: The mixed deep energy method for resolving concentration features in finite strain hyperelasticity
+# The mixed deep energy method for resolving concentration features in finite strain hyperelasticity
 
   - Author: Jan N Fuhg
   - Organization: Cornell University
