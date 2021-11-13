@@ -33,7 +33,7 @@ Outputs will be written to mixedDEM/outputs/vtk_files/ and can be opened with pa
 
 The conda environment can be closed with
 ```
-conda deactivate
+$ conda deactivate
 ```
 
 
