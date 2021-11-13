@@ -1,1 +1,47 @@
-# mixedDEM
+# mixedDEM: Code for: The mixed deep energy method for resolving concentration features in finite strain hyperelasticity
+
+  - Author: Jan N Fuhg
+  - Organization: Cornell University
+
+Here, we propose an extension to the Deep Energy Method (DEM)
+to resolve stress concentrations for finite strain hyperelasticity. The developed framework termed mixed
+Deep Energy Method (mDEM) introduces stress measures as an additional output of the NN to
+the recently introduced pure displacement formulation.
+
+
+## Installation
+This code requires an [Anaconda](https://www.anaconda.com/products/individual) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) environment with a recent Python version.
+
+
+
+## Dependencies
+
+pyLabFEA requires the following packages as imports:
+
+ - [NumPy](http://numpy.scipy.org) for array handling
+ - [Scipy](https://www.scipy.org/) for numerical solutions
+ - [torch](https://pytorch.org/) for the neural network and automatic differentiation libraries
+ - [MatPlotLib](https://matplotlib.org/) for graphical output
+ - [pyevtk](https://github.com/pyscience-projects/pyevtk) for graphical output to paraview
+ - [paraview](https://www.paraview.org/python/) for a graphical user interface
+
+
+## References
+If you use part of this code consider citing:
+Jan N. Fuhg, and Nikolaos Bouklas. "The mixed Deep Energy Method for resolving concentration features in finite strain hyperelasticity".
+Journal of Computational Physics (2021): 110839,
+
+and 
+Nguyen-Thanh, Vien Minh, Xiaoying Zhuang, and Timon Rabczuk. "A deep energy method for finite deformation hyperelasticity." European Journal of Mechanics-A/Solids 80 (2020): 103874.
+
+
+## License
+
+The pyLabFEA package comes with ABSOLUTELY NO WARRANTY. This is free
+software, and you are welcome to redistribute it under the conditions of
+the GNU General Public License
+([GPLv3](http://www.fsf.org/licensing/licenses/gpl.html))
+
+The contents of the examples and notebooks are published under the 
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+([CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/))
