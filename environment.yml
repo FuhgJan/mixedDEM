@@ -1,0 +1,13 @@
+name: mixedDEM
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pytorch
+  - pyevtk
+  - scipy
+  - paraview
+  - shapely
+  - triangle
+
