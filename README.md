@@ -37,7 +37,10 @@ The conda environment can be closed with
 ```
 $ conda deactivate
 ```
-
+The conda environment can be deleted with
+```
+$ conda env remove --name mixedDEM
+```
 
 
 ## Dependencies
