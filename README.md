@@ -22,6 +22,8 @@ $ git clone https://github.com/FuhgJan/mixedDEM.git ./mixedDEM
 $ cd mixedDEM
 $ conda env create -f environment.yml
 $ conda activate mixedDEM
+$ pip install triangle
+
 ```
 The provided example can then be run with
 
@@ -48,6 +50,7 @@ pyLabFEA requires the following packages as imports:
  - [MatPlotLib](https://matplotlib.org/) for graphical output
  - [pyevtk](https://github.com/pyscience-projects/pyevtk) for graphical output to paraview
  - [paraview](https://www.paraview.org/python/) for a graphical user interface
+ - [triangle](https://rufat.be/triangle/) for numerical integration
 
 
 ## References
