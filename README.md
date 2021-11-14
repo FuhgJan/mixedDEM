@@ -42,7 +42,7 @@ $ conda deactivate
 
 ## Dependencies
 
-pyLabFEA requires the following packages as imports:
+The code requires the following packages as imports:
 
  - [NumPy](http://numpy.scipy.org) for array handling
  - [Scipy](https://www.scipy.org/) for numerical solutions
