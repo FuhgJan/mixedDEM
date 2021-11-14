@@ -23,6 +23,7 @@ $ cd mixedDEM
 $ conda env create -f environment.yml
 $ conda activate mixedDEM
 $ pip install triangle
+$ python -m pip install . --user
 
 ```
 The provided example can then be run with
