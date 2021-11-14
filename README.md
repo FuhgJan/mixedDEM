@@ -22,26 +22,17 @@ $ git clone https://github.com/FuhgJan/mixedDEM.git ./mixedDEM
 $ cd mixedDEM
 $ conda env create -f environment.yml
 $ conda activate mixedDEM
-$ pip install triangle
 $ python -m pip install . --user
 
 ```
 The provided example can then be run with
 
 ```
-$ python3 run_hole_problem.py
+$ python -m mdem
 ```
 
 Outputs will be written to mixedDEM/outputs/vtk_files/ and can be opened with paraview.
 
-The conda environment can be closed with
-```
-$ conda deactivate
-```
-The conda environment can be deleted with
-```
-$ conda env remove --name mixedDEM
-```
 
 
 ## Dependencies
