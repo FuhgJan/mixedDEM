@@ -51,12 +51,7 @@ The code requires the following packages as imports:
 ## References
 If you use part of this code consider citing:
 
-[1] Jan N. Fuhg, and Nikolaos Bouklas. "The mixed Deep Energy Method for resolving concentration features in finite strain hyperelasticity".
-Journal of Computational Physics (2021): 110839,
-
-and 
-
-[2] Nguyen-Thanh, Vien Minh, Xiaoying Zhuang, and Timon Rabczuk. "A deep energy method for finite deformation hyperelasticity." European Journal of Mechanics-A/Solids 80 (2020): 103874.
+[1] Fuhg, Jan Niklas, et al. "Elasto-plasticity with convex model-data-driven yield functions." (2022).
 
 
 ## License
